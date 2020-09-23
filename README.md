@@ -1,2 +1,2 @@
 # ecommerce-analysis
-Data viz and regression analysis on open-
+Data viz and regression analysis on kaggle data set.
